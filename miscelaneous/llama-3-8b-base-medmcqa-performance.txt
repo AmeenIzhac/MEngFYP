@@ -1,0 +1,798 @@
+1. Which of the following is not true for myelinated nerve fibers:
+ - Impulse through myelinated fibers is slower than non-myelinated fibers
+ - Membrane currents are generated at nodes of Ranvier
+ - Saltatory conduction of impulses is seen
+ - Local anesthesia is effective only when the nerve is not covered by myelin sheath
+Model guess: Altered metabolism
+Correct answer:Impulse through myelinated fibers is slower than non-myelinated fibers
+
+2. Which of the following is not true about glomerular capillaries')
+ - The oncotic pressure of the fluid leaving the capillaries is less than that of fluid entering it
+ - Glucose concentration in the capillaries is the same as that in glomerular filtrate
+ - Constriction of afferent aeriole decreases the blood flow to the glomerulas
+ - Hematocrit of the fluid leaving the capillaries is less than that of the fluid entering it
+Model guess: Altered metabolism
+Correct answer:The oncotic pressure of the fluid leaving the capillaries is less than that of fluid entering it
+
+3. A 29 yrs old woman with a pregnancy of 17 week has a 10 years old boy with down syndrome. She does not want another down syndrome kid; best advice to her is
+ - No test is required now as her age is below 35 years
+ - Ultra sound at this point of time will definitely tell her that next baby will be down syndromic or not
+ - Amniotic fluid samples plus chromosomal analysis will definitely tell her that next baby will be down syndromic or not
+ - blood screening at this point of time will clear the exact picture
+Model guess: Altered metabolism
+Correct answer:Amniotic fluid samples plus chromosomal analysis will definitely tell her that next baby will be down syndromic or not
+
+4. Axonal transport is:
+ - Antegrade
+ - Retrograde
+ - Antegrade and retrograde
+ - None
+Model guess: Altered metabolism
+Correct answer:Antegrade and retrograde
+
+5. Low insulin to glucagon ratio is seen in all of these except:
+ - Glycogen synthesis
+ - Glycogen breakdown
+ - Gluconeogenesis
+ - Ketogenesis
+Model guess: Altered metabolism
+Correct answer:Glycogen synthesis
+
+6. Concentration of tropicamide:
+ - 0.01
+ - 0.02
+ - 0.03
+ - 0.04
+Model guess: Altered metabolism
+Correct answer:0.01
+
+7. Which of the following statements is true regarding H I N1 Influenza?
+ - Pregnant woman with sore throat can be staed immediately on oseltamivir without diagnostic testing under category B
+ - People on long-term steroids cannot receive Os-eltam ivir
+ - Category B concerns with low risk cases
+ - Category B patients have to undergo immediate testing
+Model guess: Altered metabolism
+Correct answer:Pregnant woman with sore throat can be staed immediately on oseltamivir without diagnostic testing under category B
+
+8. Which of the following are not a branch of external carotid Aery in Kiesselbach's plexus.
+ - Sphenopalatine aery
+ - Anterior ethmoidal aery
+ - Greater palatine aery
+ - Septal branch of superior labial aery
+Model guess: Altered metabolism
+Correct answer:Anterior ethmoidal aery
+
+9. Diagnosis of the following ECG-
+ - Ventricular bigeminy
+ - Electrical alternans
+ - P pulmonale
+ - Left ventricular failure
+Model guess: Altered metabolism
+Correct answer:Electrical alternans
+
+10. A blue new born presents with cyanosis. The X–ray chest reveal oligaemic lung field and normal sized heart. Most likely diagnosis is –
+ - Ebstein's anomaly
+ - Pulmonary atresia
+ - Transposition of great arteries
+ - Tetralogy of fallot
+Model guess: Altered metabolism
+Correct answer:Pulmonary atresia
+
+11. 27.	The lateral spread of dental caries is facilitated mostly  by the
+ - Enamel spindles
+ - Dentinoenamel junction
+ - Enamel lamellae
+ - Striae of Retzius
+Model guess: Altered metabolism
+Correct answer:Dentinoenamel junction
+
+12. A second-year PG resident tells you to perform an ABG of a patient. All of the following are true about performing an ABG except:
+ - Before performing the ABG, syringe should be loaded with 0.3 cc of heparin
+ - Normal pH, HCO. and PCO, levels may not indicate absence of an acid-base imbalance
+ - A different site should be tried i f modified Allen's test is negative
+ - Radial aery is the preferred site
+Model guess: Altered metabolism
+Correct answer:Before performing the ABG, syringe should be loaded with 0.3 cc of heparin
+
+13. Respiratory rhythm generation center is located at:
+ - Dorsal respiratory group
+ - Pre-Botzinger complex
+ - Ventral respiratory neurons
+ - Pneumotaxic center
+Model guess: Altered metabolism
+Correct answer:Pre-Botzinger complex
+
+14. Gait apraxia is seen in thromboembolic episode involving:
+ - ACA
+ - MCA
+ - PCA
+ - Posterior choroidal aery
+Model guess: Altered metabolism
+Correct answer:ACA
+
+15. Heavy forces on periodontal ligament causes:
+ - Hyalinization
+ - Osteoclastic activity around tooth
+ - Osteoblastic activity around tooth
+ - Crest bone resorption
+Model guess: Altered metabolism
+Correct answer:Hyalinization
+
+16. About N. gonorrhoea, all are true except
+ - Most common cause of urethritis in male
+ - All stains are highly susceptible to penicillin
+ - Wide spread axoregnic stains cause disseminated gonococcal infection
+ - Found exclusively in human beings
+Model guess: Altered metabolism
+Correct answer:All stains are highly susceptible to penicillin
+
+17. A patient who was on ventilator and being ventilated for past few days, suddenly pulls out the endotracheal tube. What is the next step of management?
+ - Assess the patient, give bag and mask ventilation and look for spontaneous breathing
+ - Sta bag and mask ventilation and reintubate
+ - Sedate and reintubate
+ - Make him sit and do physiotherapy
+Model guess: Altered metabolism
+Correct answer:Assess the patient, give bag and mask ventilation and look for spontaneous breathing
+
+18. In a	6-month-old child, thick curd like white	patch
+appears on the buccal mucosa. On rubbing it leaves an
+erythematous patch. Most likely diagnosis is:
+ - Tuberculosis
+ - Lichen planus
+ - Lupus erythematous
+ - Candidiasis
+Model guess: Altered metabolism
+Correct answer:Candidiasis
+
+19. Characteristic of venous blood flow of lower limb in duplex Doppler is?
+ - Monophasic
+ - Biphasic
+ - Triphasic
+ - Non phasic
+Model guess: Altered metabolism
+Correct answer:Monophasic
+
+20. The source of calcium ions of a calcific bridge in a
+tooth in which calcium hydroxide pulpotomy has been
+performed is:
+ - Blood vessel borne
+ - Derided cells
+ - Dentin
+ - From the calcium hydroxide
+Model guess: Altered metabolism
+Correct answer:Blood vessel borne
+
+21. 2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen
+ - 4, decreases
+ - 1, decreases
+ - 4, increases
+ - 1, increases
+Model guess: Altered metabolism
+Correct answer:1, decreases
+
+22. Highest concentration of oxygen is delivered through?
+ - Nasal cannula
+ - Venturi mask
+ - Bag and mask
+ - Mask with reservoir
+Model guess: Altered metabolism
+Correct answer:Bag and mask
+
+23. Sharpest cusp is seen in
+ - Upper Canine
+ - Lower Canine
+ - Upper Premolar
+ - Lower premolar
+Model guess: Altered metabolism
+Correct answer:Upper Canine
+
+24. A mother is Hbs Ag positive and anti Hbe Ag positive. Risk of transmission of Hep. B in child is:
+ - 20%
+ - 50%
+ - 0%
+ - 90%
+Model guess: Altered metabolism
+Correct answer:20%
+
+25. In a patient with competent lips together at rest, the lip
+line is opposite the tips of the upper incisors. The lip line is then described as
+ - Average
+ - High
+ - Incomplete
+ - Low
+Model guess: Altered metabolism
+Correct answer:Low
+
+26. A patient presented to emergency with overdose some drug. There were increased salivation and increased bronchial secretions. On examination, blood pressure was 88/60 mmHg. RBC esterase level is 50. What should be the treatment of this person?
+ - Neostigmine
+ - Atropine
+ - Flumazenil
+ - Physostigmine
+Model guess: Altered metabolism
+Correct answer:Atropine
+
+27. The current bar clasp design used is:
+ - Mesio-occlusal rest
+ - Disto-occlusal rest
+ - Mesial or distal depending on the situation
+ - Choice of the dentist
+Model guess: Altered metabolism
+Correct answer:Mesio-occlusal rest
+
+28. All of the following are true regarding Class-II inlay gingival margins preparation except?
+ - Removal of week enamel rods
+ - Increased metal burnishability
+ - Lap sliding fit of metal margin
+ - Margins of restoration in self-cleansable area
+Model guess: Altered metabolism
+Correct answer:Margins of restoration in self-cleansable area
+
+29. Breakdown of periodontal fibres in periodontitis is due to bacterial enzyme: (OR) Which of the following bacterial products have been implicated in initiation of inflammatory periodontal disease?
+ - Collagenase
+ - Hyaluronidase
+ - Coagulase
+ - None of the above
+Model guess: Altered metabolism
+Correct answer:Collagenase
+
+30. In a study, two groups of newborns are checked for their weights based on whether their mothers received food supplements or not. The appropriate test which can be used for comparing the data is:
+ - Chi square test
+ - Paired T-test
+ - Student's T-test
+ - Fischer exact test
+Model guess: Altered metabolism
+Correct answer:Student's T-test
+
+31. Which vitamin is required for glycogen Phosphorylase?
+ - PLP
+ - TPP
+ - Riboflavin
+ - Lipoic acid
+Model guess: Altered metabolism
+Correct answer:PLP
+
+32. A child's behaviour is traced to have dental difficulties
+from	his	mother.	The	most	satisfactory	method	of
+handling the situation is to:
+ - Introduce another child as a good example
+ - Modify his fear by familiarization
+ - Use small amounts of barbiturates
+ - Use firmness
+Model guess: Altered metabolism
+Correct answer:Modify his fear by familiarization
+
+33. Which of the following is the only complete cailage ring in the respiratory tree?
+ - Cricoid cailage
+ - Thyroid cailage
+ - Cunieform cailage
+ - Epiglottis
+Model guess: Altered metabolism
+Correct answer:Cricoid cailage
+
+34. Steps of intubation - arrange in sequence:- a. Head extension and flexion of neck b. Introduction of laryngoscope c. Inflation of cuff d. Check breath sounds with stethoscope e. fixation of the tube to prevent dislodgement
+ - ABCDE
+ - DBCEA
+ - ACBED
+ - CBAED
+Model guess: Altered metabolism
+Correct answer:ABCDE
+
+35. In Erythroblastosis fetalis not involved is –
+ - Anti C
+ - Anti D
+ - Anti E
+ - Anti Lewis
+Model guess: Altered metabolism
+Correct answer:Anti Lewis
+
+36. A dentist suffered from Hepatitis B infection 3 months back. His laboratory tests are normal, but he is not allowed by the medical board to do surgical practice. He is:
+ - Inactive carrier
+ - Healthy carrier
+ - Convalescent carrier
+ - Paradoxical carrier
+Model guess: Altered metabolism
+Correct answer:Convalescent carrier
+
+37. A pediatrician in a district hospital with specialization neonatal care unit calls an ophthalmologist for consultation for which of the following?
+ - A newborn with respiratory distress
+ - A baby born at 28 weeks of gestation
+ - Newborn with jaundice
+ - A newborn with bih weight 2300 grams
+Model guess: Altered metabolism
+Correct answer:A baby born at 28 weeks of gestation
+
+38. In a child with active liver failure, the most important prognosis factor for death is –
+ - Increasing transaminases
+ - Increasing bilirubin
+ - Increasing prothrombin time
+ - Gram (–)ve sepsis
+Model guess: Altered metabolism
+Correct answer:Gram (–)ve sepsis
+
+39. A patient went into shock immediately after normal delivery, likely cause:
+ - Amniotic fluid embolism
+ - PPH
+ - Uterine inversion
+ - Eclampsia
+Model guess: Altered metabolism
+Correct answer:Uterine inversion
+
+40. A patient presented with flat topped violaceous papules, thinning of nails and onycholysis. What is the microscopic finding observed in this patient?
+ - Prominent necrotic cell
+ - Suprabasal split
+ - Basal cell degeneration
+ - Acantholysis
+Model guess: Altered metabolism
+Correct answer:Basal cell degeneration
+
+41. Which of the following is not. true regarding myelopathy?
+ - Sensory loss of facial area
+ - Brisk jaw jerk
+ - Brisk pectoral jerk
+ - Urgency and incontinence of micturition
+Model guess: Altered metabolism
+Correct answer:Brisk jaw jerk
+
+42. Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?
+ - High level expe group of universal health program for india
+ - Central bureau of health investigation
+ - Srivastava committee
+ - Sundar committee
+Model guess: Altered metabolism
+Correct answer:High level expe group of universal health program for india
+
+43. Sequential arrangement of fetal scans -
+ - Growth scan
+ - Triple marker
+ - Anomalous Scan and NT scan
+ - All
+Model guess: Altered metabolism
+Correct answer:All
+
+44. Which one of the following is a muscle splitting incision?
+ - Kocher's incision
+ - Rutherford-Morrison incision
+ - Pfannenstiel incision
+ - Lanz incision
+Model guess: Altered metabolism
+Correct answer:Lanz incision
+
+45. Multiple canals in mandibular premolars are seen in?
+ - Africas
+ - Caucians
+ - Not Recalled
+ - Not Recalled
+Model guess: Altered metabolism
+Correct answer:Africas
+
+46. Which of the following blade angle is appropriate for scaling and root planing
+ - A
+ - B
+ - C
+ - D
+Model guess: Altered metabolism
+Correct answer:B
+
+47. Which pa of brachial plexus do not give branches
+ - Root
+ - Division
+ - Cord
+ - Trunk
+Model guess: Altered metabolism
+Correct answer:Division
+
+48. If the Rb gene phosphorylation is defective, which of the following will happen?
+ - Cell cycle will stop at GI phase
+ - Cell cycle will stop at G2 phase
+ - The cell cycle will progress and the cell will divide
+ - There will be no effect on cell cycle as for Rb gene phosphorylation is not needed
+Model guess: Altered metabolism
+Correct answer:Cell cycle will stop at GI phase
+
+49. Cumulative index is:
+ - Russet's periodontal index
+ - Ramjford's periodontal index
+ - PMA (Massler and Schlour)
+ - Gingival index (Loe and Silness)
+Model guess: Altered metabolism
+Correct answer:PMA (Massler and Schlour)
+
+50. The cells which will proliferate from top to bottom of villi are:
+ - Chief cells
+ - Goblet cells
+ - Paneth cells
+ - Parietal cells
+Model guess: Altered metabolism
+Correct answer:Paneth cells
+
+51. What is the usual weight of rabbit used in ophthalmological experiments?
+ - 0.5-1 kg
+ - 1.5-2.5 kg
+ - 5-7 kg
+ - 10-12 kg
+Model guess: Altered metabolism
+Correct answer:1.5-2.5 kg
+
+52. In plasmodium vivax malaria, relapse is caused by:September 2012
+ - Sporozoite
+ - Schizont
+ - Hypnozoite
+ - Gamteocyte
+Model guess: Altered metabolism
+Correct answer:Hypnozoite
+
+53. Retraction of mandible is achieved by:
+ - Lateral pterygoid
+ - Temporalis
+ - Medial pterygoid
+ - Masseter
+Model guess: Altered metabolism
+Correct answer:Temporalis
+
+54. How is modified shock index represented as?
+ - HR/MAP
+ - MAP/HR
+ - HR/SBP
+ - HR/DBP
+Model guess: Altered metabolism
+Correct answer:HR/MAP
+
+55. A 3 week neonate with ambiguous genitalia presented with Na+ 127 meq/L, K+ 7.2 meq/L wit BP 52/24 mm Hg and he was managed with IV fluids. What is the next step of management?
+ - Spironolactone
+ - Hydrocoisone administration
+ - Broad spectrum antibiotics
+ - Calcium gluconate
+Model guess: Altered metabolism
+Correct answer:Hydrocoisone administration
+
+56. Base pairs in DNA
+ - 1.5 billion
+ - 46 billions
+ - 3.2 billion
+ - 100 billion
+Model guess: Altered metabolism
+Correct answer:3.2 billion
+
+57. Which of the following is a solid solution?
+ - Amalgam
+ - Cobalt-chromium
+ - Silver-palladium
+ - Gallium-silver
+Model guess: Altered metabolism
+Correct answer:Silver-palladium
+
+58. Tracheal secretions should be suctioned for:
+ - 10-15 seconds
+ - 60 seconds
+ - 30 seconds
+ - 3 minutes
+Model guess: Altered metabolism
+Correct answer:10-15 seconds
+
+59. A patient presents with carcinoma of the larynx involving the left false cords, left arytenoid and the left aryepiglottic folds with bilateral mobile true cords. Treatment of choice is -
+ - Vertical hemilaryngectomy
+ - Horizontal partial hemilaryngectomy
+ - Total laryngectomy
+ - Radiotherapy followed by chemotherapy
+Model guess: Altered metabolism
+Correct answer:Vertical hemilaryngectomy
+
+60. Which of the following lipoproteins does not move towards charged end in electrophoresis?
+ - VLDL
+ - LDL
+ - HDL
+ - Chylomicrons
+Model guess: Altered metabolism
+Correct answer:Chylomicrons
+
+61. A 60 years old male presented with fever, chills and dysuria. Patient was hospitalized in emergency for 5 days. PSA level was 7.4. Next best step in this patient:
+ - Repeat PSA
+ - TURP
+ - TRUS guided biopsy
+ - Antibiotics and admit
+Model guess: Altered metabolism
+Correct answer:Antibiotics and admit
+
+62. Name the structure marked with arrow
+ - Mitochondria
+ - Golgi bodies
+ - Secretory vesicles
+ - Rough Endoplasmic reticulum
+Model guess: Altered metabolism
+Correct answer:Secretory vesicles
+
+63. A patient from,nqh-eastern states was diagnosed to have infection with P. falciparum malaria. What is the most appropriate drug for this patient?
+ - Aemether plus lumefantrine
+ - Sulfadoxine plus pyrimethamine
+ - Chloroquine
+ - Mefloquine
+Model guess: Altered metabolism
+Correct answer:Aemether plus lumefantrine
+
+64. Iron is present in all, EXCEPT
+ - Myoglobin
+ - Cytochrome
+ - Catalase
+ - Pyruvate kinase
+Model guess: Altered metabolism
+Correct answer:Pyruvate kinase
+
+65. The most common bone tumor that occurs in children is:
+ - Osteosarcoma
+ - Ewing's sarcoma
+ - Metastatic carcinoma
+ - Multiple myeloma
+Model guess: Altered metabolism
+Correct answer:Osteosarcoma
+
+66. In a couple for treatment of infeility from the last four years, female paner is normal. Male paner has 0.8 ml semen volume per ejaculate on two repeated samples and absent fructose, with no sperms on examination under microscope. What is the next line of management?
+ - Per-rectal examination to check ejaculatory duct obstruction
+ - Give antioxidants
+ - Testicular biopsy
+ - Transrectal ultrasound to detect duct obstruction
+Model guess: Altered metabolism
+Correct answer:Transrectal ultrasound to detect duct obstruction
+
+67. The zygomatic bone does not articulate with:
+ - Frontal bone
+ - Maxillary bone
+ - Nasal bone
+ - Temporal bone
+Model guess: Altered metabolism
+Correct answer:Nasal bone
+
+68. Which of the following statements is true regarding medical aboion?
+ - Ultrasound should be done in all cases
+ - If the patient has an IUCD in-situ, it doesn't need to be removed
+ - Can only be done up to 72 days
+ - Only a person ceified under MTP act can perform medical termination of pregnancy
+Model guess: Altered metabolism
+Correct answer:Only a person ceified under MTP act can perform medical termination of pregnancy
+
+69. Calcium ions triggers muscle contraction by binding to:
+ - Actin
+ - Myosin
+ - Troponin
+ - Tropomyosin
+Model guess: Altered metabolism
+Correct answer:Troponin
+
+70. SD plasma destroys lipid enveloped virus. On SD plasma transfusion, which of the following infection is the likely possibility?
+ - HIV
+ - HAV
+ - HBV
+ - HCV
+Model guess: Altered metabolism
+Correct answer:HAV
+
+71. According to the intelligence quotient classification, a score of 90-110 is:
+ - Low average.
+ - Average
+ - Superior
+ - Mentally retarded.
+Model guess: Altered metabolism
+Correct answer:Average
+
+72. Due to which of the following enzyme deficiency, vitamin C cannot be synthesised in humans?
+ - L-Glucuronic acid oxidase
+ - L-Gulonic acid reductase
+ - L-Gulonolactone oxidase
+ - L-Gulonolactone reductase
+Model guess: Altered metabolism
+Correct answer:L-Gulonolactone oxidase
+
+73. In a patient of heart disease antibiotic prophylaxis for dental extraction is:
+ - Amoxicillin.
+ - Imipenem.
+ - Gentamicin.
+ - Erythromycin.
+Model guess: Altered metabolism
+Correct answer:Amoxicillin.
+
+74. Which of the following type of failure may occur, if the coefficient of thermal expansion of ceramic is much lower than that of metal?
+ - Cohesive failure of ceramic
+ - Adhesive failure of metal ceramic bond
+ - Cohesive failure of metal
+ - Cohesive failure of metal ceramic bond
+Model guess: Altered metabolism
+Correct answer:Adhesive failure of metal ceramic bond
+
+75. Anti monsoon curve seen in :
+ - Premolar
+ - Molar
+ - Anterior
+ - All of the above.
+Model guess: Altered metabolism
+Correct answer:All of the above.
+
+76. A 10 years old child has lytic lesions in upper femur, the differential diagnosis can be all except :
+ - Plasmacytoma
+ - Browns tumour
+ - Metastasis
+ - Histiocytosis
+Model guess: Altered metabolism
+Correct answer:Plasmacytoma
+
+77. During periradicular surgery bone is removed with?
+ - Round burr
+ - Double inverted cone burr
+ - Fissure burr
+ - Taper Burr
+Model guess: Altered metabolism
+Correct answer:Round burr
+
+78. The primary function of the dental pulp is:
+ - Nutritive
+ - Production of dentin
+ - Production of enamel
+ - Vascular supply to the teeth
+Model guess: Altered metabolism
+Correct answer:Production of dentin
+
+79. Which of the following increases callus formation:
+ - Rigid immobilization
+ - Movement at fracture site
+ - Compression plating
+ - Intraosseous nailing
+Model guess: Altered metabolism
+Correct answer:Movement at fracture site
+
+80. Child of Vasanthi was weaned from breast milk on the 5th day and was given sugarcane juice the child developed hypoglycemia and hepatomegaly biochemical examination showed hypophosphatemia and enzyme deficiencies–reducing substances in urine. The child is probably suffering from which of the following enzyme deficiencies –
+ - Fructokinase
+ - Aldolase B
+ - Glucose 6 Phosphatase
+ - Beta galactosidase
+Model guess: Altered metabolism
+Correct answer:Aldolase B
+
+81. Skeletal muscles
+ - Contracts when calcium is taken up by sarcoplasmic reticulum
+ - Contracts when actin and myosin filaments shorten
+ - Contraction is initiated by calcium binding to troponin
+ - Contraction is initiated by calcium binding to tropomyosin
+Model guess: Altered metabolism
+Correct answer:Contraction is initiated by calcium binding to troponin
+
+82. Which of the following is most effective for gluconeogenesis in starvation?
+ - Acetyl Co-A stimulation of pyruvate carboxylase
+ - Fructose-1, 6-biphosphate stimulation of phosphofructokinase-1
+ - Citrate stimulation of acetyl carboxylase
+ - Fructose-2, 6-biphosphate stimulation of phosphofructokinase-2
+Model guess: Altered metabolism
+Correct answer:Acetyl Co-A stimulation of pyruvate carboxylase
+
+83. Which is not involved in iron metabolism?
+ - Transthyretin
+ - Ceruloplasmin
+ - Hepcidin
+ - Ferropoin
+Model guess: Altered metabolism
+Correct answer:Transthyretin
+
+84. A 14 year girl presented with absent thelarche.On examination uterus was present. Investigations showed high FSH. karyotype is XY.What is the probable diagnosis?
+ - Gonadal dysgenesis
+ - Kallman syndrome
+ - Androgen insensitivity syndrome
+ - Adrenal hyperplasia
+Model guess: Altered metabolism
+Correct answer:Gonadal dysgenesis
+
+85. Reciprocal arm taper in
+ - 1 dimension
+ - 2 dimension
+ - 3 dimension
+ - Not tapered
+Model guess: Altered metabolism
+Correct answer:1 dimension
+
+86. Bluegrass appliance is used to treat:
+ - Thumb sucking.
+ - Tongue thrusting.
+ - Both
+ - Mouth breathing.
+Model guess: Altered metabolism
+Correct answer:Both
+
+87. On a primary 2nd molar caries occur most commonly on
+ - Occlusal pit and fissures
+ - Proximal caries below contact point
+ - Buccal surface
+ - Promixal caries above contact point
+Model guess: Altered metabolism
+Correct answer:Occlusal pit and fissures
+
+88. Waldeyer's lymphatic chain is formed by all except
+ - Palatine tonsils
+ - Pharyngeal tonsils
+ - Tubal and lingual tonsils
+ - Post auricular nodes
+Model guess: Altered metabolism
+Correct answer:Post auricular nodes
+
+89. Polydactyly, craniosynostosis, Late closure of fontanelles is a feature of:
+ - Apert's syndrome
+ - Crouton's syndrome
+ - Pierre robin syndrome
+ - Down' syndrome
+Model guess: Altered metabolism
+Correct answer:Apert's syndrome
+
+90. Physiological changes seen in laparoscopy include all except:
+ - Increased ICP
+ - Decreased FRC
+ - Increased CVP
+ - Increased pH
+Model guess: Altered metabolism
+Correct answer:Increased pH
+
+91. Which of the following nerve fibre types is least susceptible to LA blockade?
+ - A beta
+ - A alpha
+ - B fibers
+ - C fibers
+Model guess: Altered metabolism
+Correct answer:A alpha
+
+92. A child born with multiple congenital defect including cleft palate, neural tube defect, atrial septal defect and microcephaly which of the following drug is used by mother during pregnancy:
+ - Erythromycin
+ - Isotretinoin
+ - Ibuprofen
+ - Metronidazole
+Model guess: Altered metabolism
+Correct answer:Isotretinoin
+
+93. Incorporation of peripheral seal in an impression is necessary to obtain;
+ - Stability
+ - Functionally moulded periphery
+ - Harmonious occlusion
+ - Posterior palatal seal
+Model guess: Altered metabolism
+Correct answer:Functionally moulded periphery
+
+94. Increase in height of mandible with increase in interdental spaces in elderly man
+ - Hyperpituitarism
+ - Hyperthyroidism
+ - Hypopituitarism
+ - Hyperparathyroidism
+Model guess: Altered metabolism
+Correct answer:Hyperpituitarism
+
+95. A patient has seasonal allergic rhinitis and is on terfenadine. He develops cardiac arrhythmias after a course of antibiotics. Which of the following antibiotic could have been given:
+ - Ampicillin
+ - Tetracycline
+ - Erythromycin
+ - Co-trimoxazole
+Model guess: Altered metabolism
+Correct answer:Erythromycin
+
+96. Modulus of elasticity means:
+ - Rigidity or stiffness of the material
+ - Ability to be stretched with permanent deformation
+ - Ductility of a material
+ - Malleability of the metal
+Model guess: Altered metabolism
+Correct answer:Rigidity or stiffness of the material
+
+97. Vwf factor is produced by:
+ - Platelets
+ - Endothelial cells
+ - Neutrophils
+ - Monocytes
+Model guess: Altered metabolism
+Correct answer:Endothelial cells
+
+98. Which of the following statement is false statement about snake-bites?
+ - Anti-venom is not effective in humpnosed pit viper bite
+ - Cobra venom is neurotoxic
+ - Atropine premedication should be used before administering Neostigmine
+ - Neostigmine has a role in krait bite.
+Model guess: Altered metabolism
+Correct answer:Neostigmine has a role in krait bite.
+
+99. A prosthetic appliance given to cover the palatal defect in patients with cleft palate is called
+ - Artificial velum
+ - Obturator
+ - Removable prosthetic appliance
+ - None of the above
+Model guess: Altered metabolism
+Correct answer:Obturator

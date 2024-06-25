@@ -1,10 +1,10 @@
-### Domain Specific Knowledge For Large Language Models
+# Domain Specific Knowledge For Large Language Models
 
-# Brief
+## Brief
 
 This is the code repository for the Imperial MEng Computing Individual Project on the above title subject. The project aim is to develop, and learn about the methods for creating a language model that is designed for answering questions about a specific domain, specifically focusing on the knowledge aspect. The Anatomy domain is used as case study.
 
-# /books
+## /books
 
 - This folder contains a series of Anatomy text books that were used to create a knowledge base during the RAG experimentation phase of this project.
 - anatomybook.txt - Netter's Clinical Anatomy, John T. Hansen (2019): https://books.google.co.uk/books/about/Netter_s_Clinical_Anatomy.html?id=bqdAtAEACAAJ&redir_esc=y

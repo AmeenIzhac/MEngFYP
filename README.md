@@ -2,7 +2,7 @@
 
 ## Brief
 
-This is the code repository for the Imperial MEng Computing Individual Project on the above subject title. The project aim is to develop a language model for answering questions on a particular domain, with motivation to uncover the most impactful transferable techniques for doing so. Specifically, this project focuses on the knowledge aspect of such models. The Anatomy domain is used as case study. Initial experiments used Google's Flan T5 base model, and later experiments used Meta's Llama 3 8B model. The following provides a breakdown each folders contents.
+This is the code repository for the Imperial MEng Computing Individual Project on the above subject title. The project aim is to develop a language model for answering questions on a particular domain, with motivation to uncover the most impactful transferable techniques for doing so. Specifically, this project focuses on the knowledge aspect of such models. The Anatomy domain is used as case study. Initial experiments used Google's Flan T5 base model, and later experiments used Meta's Llama 3 8B model. The following provides a breakdown of each folders contents.
 
 ## /books
 
